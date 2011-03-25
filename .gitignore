@@ -1,6 +1,6 @@
-backup/*
-src/lib/*
-project1
+src/*backup/*
+src/*/lib/*
+src/*/project1
 *.bak
 *~
 tmp/
